@@ -1,6 +1,6 @@
 # 💫 _I'm DURGESH SHUKLA_
 
-🔭 **I’m currently working on**: Building scalable Full-Stack web apps and deploying LLM/AI solutions.<br><br>👯 **I’m looking to collaborate on**: Open-source AI tools, Full-Stack applications, and Python libraries.<br><br>🤝 **I’m looking for help with**: Advanced MLOps, model quantization, and distributed system design.<br><br>🌱 **I’m currently learning**: Generative AI, Agentic Workflows, and System Architecture.<br><br>💬** Ask me about**: Python, Flask, PyTorch, Hugging Face, and Web Development.<br><br>📬 **Get in Touch**: Open for software engineering roles, open-source collaborations, and AI project consulting.
+🔭 **I’m currently working on**: Building scalable Full-Stack web apps and deploying LLM/AI solutions.<br><br>👯 **I’m looking to collaborate on**: Open-source AI tools, Full-Stack applications, and Python libraries.<br><br>🤝 **I’m looking for help with**: Advanced MLOps, model quantization, and distributed system design.<br><br>🌱 **I’m currently learning**: Generative AI, Agentic Workflows, and System Architecture.<br><br>💬 **Ask me about**: Python, Flask, PyTorch, Hugging Face, and Web Development.<br><br>📬 **Get in Touch**: Open for software engineering roles, open-source collaborations, and AI project consulting.
 
 
 ## 🌐 Socials:
